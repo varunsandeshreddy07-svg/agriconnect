@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect",
+  "description": "Direct farmer-to-buyer agricultural marketplace with crop listings, verified farmer badges, direct messaging, voice-assisted AI farming advisory, and custom crop & trading plans.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
